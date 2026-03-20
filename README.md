@@ -146,3 +146,4 @@ The **IPL Analysis Dashboard** demonstrates how **data-driven insights can impro
 **Lavkush Pandey**
 Engineering Student – Lokmanya Tilak College of Engineering
 Interested in **Data Analytics, Artificial Intelligence, and Business Intelligence**
+![image alt](https://github.com/lavkushp0777/Anudeep-Project/blob/f986da843c602394197bfcb5a9f7aa158f4ee64e/Screenshot%202026-03-20%20141516.png)
